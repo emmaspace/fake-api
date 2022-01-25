@@ -31,7 +31,7 @@
       "user": "squad@braveBellotas.com",
       "ambition": 1,
       "period": "Q1-2022",
-      "Categories": ["Tech skills"]
+      "Categories": ["Tech skills", "Backend development", "Python"]
     }
   ],
   "Action-Plan": [
@@ -41,8 +41,44 @@
       "ambition": 1,
       "period": "Q1-2022",
       "SMART-Goal": "Read a chapter of a book",
-      "By-When": "2022-01-23T09:33:47.672Z",
+      "By-When": "January 25, 2022",
       "status": false
+    },
+    {
+      "id": 2,
+      "user": "squad@braveBellotas.com",
+      "ambition": 1,
+      "period": "Q1-2022",
+      "SMART-Goal": "Finish mini project",
+      "By-When": "January 20, 2022",
+      "status": true
+    },
+    {
+      "id": 3,
+      "user": "squad@braveBellotas.com",
+      "ambition": 1,
+      "period": "Q1-2022",
+      "SMART-Goal": "Prepare and present exam",
+      "By-When": "January 10, 2022",
+      "status": true
+    },
+    {
+      "id": 4,
+      "user": "squad@braveBellotas.com",
+      "ambition": 1,
+      "period": "Q1-2022",
+      "SMART-Goal": "Get my certificate",
+      "By-When": "February 20, 2022",
+      "status": false
+    },
+    {
+      "id": 5,
+      "user": "squad@braveBellotas.com",
+      "ambition": 1,
+      "period": "Q1-2022",
+      "SMART-Goal": "Finish last part of the course",
+      "By-When": "January 15, 2022",
+      "status": true
     }
   ],
   "Accountability": [
@@ -64,6 +100,30 @@
       "period": "Q1-2022",
       "Action/Practice/Habit": "Read 1 hour a day",
       "Frequency": "Everyday"
+    },
+    {
+      "id": 2,
+      "user": "squad@braveBellotas.com",
+      "ambition": 1,
+      "period": "Q1-2022",
+      "Action/Practice/Habit": "Solve three coding exercises",
+      "Frequency": "Once a week"
+    },
+    {
+      "id": 3,
+      "user": "squad@braveBellotas.com",
+      "ambition": 1,
+      "period": "Q1-2022",
+      "Action/Practice/Habit": "Watch a tutorial on a difficult topic",
+      "Frequency": "Every time it is needed"
+    },
+    {
+      "id": 4,
+      "user": "squad@braveBellotas.com",
+      "ambition": 1,
+      "period": "Q1-2022",
+      "Action/Practice/Habit": "MAke a mini proyect using the info I learned",
+      "Frequency": "Once a month"
     }
   ],
   "Deliberate-Practice-Log": [
@@ -75,6 +135,24 @@
       "Actions/Practices/Habits": "Read for 30 minutes today",
       "Date": "2022-01-23T09:33:47.672Z",
       "Outcome": "I understood most of it"
+    },
+    {
+      "id": 2,
+      "user": "squad@braveBellotas.com",
+      "ambition": 1,
+      "period": "Q1-2022",
+      "Actions/Practices/Habits": "Solved 3 coding exercises",
+      "Date": "2022-01-23T09:33:47.672Z",
+      "Outcome": "It was easier than the last time"
+    },
+    {
+      "id": 3,
+      "user": "squad@braveBellotas.com",
+      "ambition": 1,
+      "period": "Q1-2022",
+      "Actions/Practices/Habits": "Reached out to my mentor for help",
+      "Date": "2022-01-23T09:33:47.672Z",
+      "Outcome": "It helped me understand the topic better"
     }
   ],
   "users": [
